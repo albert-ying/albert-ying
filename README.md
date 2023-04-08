@@ -20,6 +20,15 @@
   </h1>
 </div> -->
 
+
+<div align="center",>
+  <br>
+  <img src="https://media.giphy.com/media/GlFkO4k5r1bdQVxKTw/giphy.gif", width="180",/> 
+  <img src="https://media.giphy.com/media/OitByEKy91r98Glzar/giphy.gif", width="180",/> 
+  <img src="https://media.giphy.com/media/jX1LDiYwxAAYohQ3qa/giphy.gif", width="180"/>
+</div>
+
+
 Hi! I'm Albert Kejun Ying, a PhD candidate at [Harvard Medical School](https://hms.harvard.edu/), [Vadim Gladyshev
 lab](https://gladyshevlab.bwh.harvard.edu/). My research interests include aging and omics, with a focus on the cause of aging, epigenetics,
 metabolism, and multi-omics.
@@ -30,21 +39,26 @@ aging](https://t.co/yAWcTiPCaV). I also built the [ClockBase](https://clockbase.
 explore biological ages of more than 300,000 samples on GEO, thus facilitating discovery of new longevity interventions and age-accelerating
 conditions.
 
+I'm also interested in deep learning and protein design.
+
 <div align="center",>
   <br>
   <a href="https://hms.harvard.edu/">
   <img src="./hms_logo.png", width="180",/>
   <a/>
   <a href="https://gladyshevlab.bwh.harvard.edu/">
-  <img src="./gladyshev_lab_logo.png", width="180",/>
+  <img src="./gladyshevlab_logo.png", width="180",/>
+  <a/>
+  <a href="www.clockbase.org">
+  <img src="clockbase-logo.png", width="180",/>
   <a/>
 </div>
 
 <div>
 <div align="center",>
   <br>
-  <a href="www.clockbase.org">
-  <img src="clockbase-logo.png", width="180",/>
+  <a href="https://www.linkedin.com/in/kejun-albert-ying/">
+  <img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif", width="180",/> 
   <a/>
   <a href="https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=en">
   <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
