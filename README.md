@@ -30,7 +30,7 @@
 <div align="center",>
   <br>
   <a href="https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=en">
-  <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="80",/> 
+  <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
   <a/>
   <div align="absmiddle"> Science </div>
 </div>
@@ -39,7 +39,7 @@
 <div align="center",>
   <br>
   <a href="https://twitter.com/KejunYing">
-  <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif", width="80"/>
+  <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif", width="180"/>
   </a>
   <div align="absmiddle"> Twitter </div>
 </div>
