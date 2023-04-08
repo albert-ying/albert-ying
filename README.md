@@ -22,7 +22,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [ClockBase](www.clockbase.org)
+<div align="center",>
+
+
+
+</div>
 <!-- BLOG-POST-LIST:END -->
 
 <div>
