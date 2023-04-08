@@ -42,7 +42,7 @@ aging](https://t.co/yAWcTiPCaV)
 resource for the scientific community to quantify and explore biological ages of more than 300,000 samples on GEO, thus facilitating discovery of
 new longevity interventions and age-accelerating conditions.
 
-- I'm also interested in deep learning and protein design.
+- I'm also interested in **machine learning** and **protein design**.
 
 <div align="center",>
   <br>
