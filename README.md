@@ -41,9 +41,8 @@ new longevity interventions and age-accelerating conditions.
   <a/>
 </div>
 
--------
+<h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="80px",/> Weekly stats </b></h2>
 
-**Weekly stats**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
