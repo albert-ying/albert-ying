@@ -41,12 +41,12 @@ new longevity interventions and age-accelerating conditions.
   <a/>
 </div>
 
-<h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="80px",/> Weekly stats </b></h2>
+<h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", height="80px",/> Weekly stats </b></h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## You can also find me here
+<h2><b> <img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif", height="80px",/> Find me here </b></h2>
     
 <div>
 <div align="center",>
