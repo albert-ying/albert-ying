@@ -41,6 +41,12 @@ new longevity interventions and age-accelerating conditions.
   <a/>
 </div>
 
+-------
+
+**Weekly stats**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## You can also find me here
     
 <div>
