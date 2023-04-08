@@ -5,22 +5,7 @@
 </p>
 
 
-
-<!-- <div align="center">
-  <h1>
-    <a href="https://gideonwolfe.com/">
-        <img style="vertical-align:middle" src="https://media1.giphy.com/media/WQaUiVxSPkp4oZv5Tq/giphy.gif", width="40", />
-    </a>
-      <span style=""> 
-        <a href="https://gideonwolfe.com"> My Website </a> - <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf"> My Resumé </a>
-        <a href="https://gideonwolfe.com/files/GideonWolfeCV.pdf">
-        <img style="vertical-align:middle" src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif", width="40", />
-        </a>
-      </span>
-  </h1>
-</div> -->
-
-# 𝙷𝚒! 𝙸'𝚖 𝙺𝚎𝚓𝚞𝚗 (𝙰𝚕𝚋𝚎𝚛𝚝) 𝚈𝚒𝚗𝚐
+<h1><b> <img src="https://media.giphy.com/media/5A4gz2QktOjs3nYq1U/giphy.gif", width="80px",/> 𝙷𝚒! 𝙸'𝚖 𝙺𝚎𝚓𝚞𝚗 (𝙰𝚕𝚋𝚎𝚛𝚝) 𝚈𝚒𝚗𝚐  </b></h1>
 
 <div align="center",>
   <br>
