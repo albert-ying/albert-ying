@@ -44,12 +44,6 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Weekly stats </b></h2>
 
 <!--START_SECTION:waka-->
-```
-Python      1 hr 28 mins    ██████████████▒░░░░░░░░░░   57.07 %
-YAML        30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-JSON        20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Other       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-```
 <!--END_SECTION:waka-->
 
 <h2><b> <img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif", width="80px",/> Find me here </b></h2>
