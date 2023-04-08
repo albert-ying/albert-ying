@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albert-ying&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true", width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ying&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ying&layout=compact&theme=tokyonight&hide_border=true", width="300"/> <br>
 </p>
 
 
@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 <div align="center",>
 
-
+<a href="www.clockbase.org"> <img src="clockbase-logo.png", width="180"/> <a/>
 
 </div>
 <!-- BLOG-POST-LIST:END -->
@@ -36,16 +36,9 @@
   <a href="https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=en">
   <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
   <a/>
-  <div align="absmiddle"> Science </div>
-</div>
-
-
-<div align="center",>
-  <br>
   <a href="https://twitter.com/KejunYing">
   <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif", width="180"/>
   </a>
-  <div align="absmiddle"> Twitter </div>
 </div>
 
 
