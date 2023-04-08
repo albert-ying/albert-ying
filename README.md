@@ -20,27 +20,39 @@
   </h1>
 </div> -->
 
+Hi! I'm Albert Kejun Ying, a PhD candidate at [Harvard Medical School](https://hms.harvard.edu/), [Vadim Gladyshev
+lab](https://gladyshevlab.bwh.harvard.edu/). My research interests include aging and omics, with a focus on the cause of aging, epigenetics,
+metabolism, and multi-omics.
 
-<!-- BLOG-POST-LIST:START -->
-<div align="center",>
-  <a href="www.clockbase.org">
-  <img src="clockbase-logo.png", width="180",/>
-  <a/>
-</div>
-<!-- BLOG-POST-LIST:END -->
-
-<div>
+My recent work focuses on [the causal role of DNA methylation in aging and age-related diseases, and I built the first causal biomarker of
+aging](https://t.co/yAWcTiPCaV). I also built the [ClockBase](https://clockbase.org)
+([preprint](https://www.biorxiv.org/content/10.1101/2023.02.28.530532v1)), which provides a resource for the scientific community to quantify and
+explore biological ages of more than 300,000 samples on GEO, thus facilitating discovery of new longevity interventions and age-accelerating
+conditions.
 
 <div align="center",>
   <br>
+  <a href="https://hms.harvard.edu/">
+  <img src="./hms_logo.png", width="180",/>
+  <a/>
+  <a href="https://gladyshevlab.bwh.harvard.edu/">
+  <img src="./gladyshev_lab_logo.png", width="180",/>
+  <a/>
+</div>
+
+<div>
+<div align="center",>
+  <br>
+  <a href="www.clockbase.org">
+  <img src="clockbase-logo.png", width="180",/>
+  <a/>
   <a href="https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=en">
   <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
   <a/>
   <a href="https://twitter.com/KejunYing">
-  <img src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif", width="180"/>
+  <img src="https://media.giphy.com/media/iFUiSYMNPvIJZDpMKN/giphy.gif", width="180"/>
   </a>
 </div>
-
 
 </div>
 
