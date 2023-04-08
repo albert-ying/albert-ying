@@ -23,9 +23,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 <div align="center",>
-
-<a href="www.clockbase.org"> <img src="clockbase-logo.png", width="180"/> <a/>
-
+  <a href="www.clockbase.org">
+  <img src="clockbase-logo.png", width="180",/>
+  <a/>
 </div>
 <!-- BLOG-POST-LIST:END -->
 
