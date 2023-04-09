@@ -41,7 +41,25 @@ new longevity interventions and age-accelerating conditions.
   <a/>
 </div>
 
-<h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Weekly stats </b></h2>
+<h2><b> <img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif", width="80px",/> Find me here </b></h2>
+    
+<div>
+<div align="center",>
+  <br>
+  <a href="https://www.linkedin.com/in/kejun-albert-ying/">
+  <img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif", width="180",/> 
+  <a/>
+  <a href="https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=en">
+  <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
+  <a/>
+  <a href="https://twitter.com/KejunYing">
+  <img src="https://media.giphy.com/media/iFUiSYMNPvIJZDpMKN/giphy.gif", width="180"/>
+  </a>
+</div>
+
+</div>
+
+<h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C965%20hrs%2047%20mins-blue)
@@ -132,21 +150,4 @@ SCSS                     1 repo              ░░░░░░░░░░░�
  Last Updated on 09/04/2023 02:35:25 UTC
 <!--END_SECTION:waka-->
 
-<h2><b> <img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif", width="80px",/> Find me here </b></h2>
-    
-<div>
-<div align="center",>
-  <br>
-  <a href="https://www.linkedin.com/in/kejun-albert-ying/">
-  <img src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif", width="180",/> 
-  <a/>
-  <a href="https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=en">
-  <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
-  <a/>
-  <a href="https://twitter.com/KejunYing">
-  <img src="https://media.giphy.com/media/iFUiSYMNPvIJZDpMKN/giphy.gif", width="180"/>
-  </a>
-</div>
-
-</div>
 
