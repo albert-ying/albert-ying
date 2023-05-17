@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C149%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C150%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,15 +107,15 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    14 hrs 16 mins      ██████████████████░░░░░░░   73.55 % 
-R                        3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    10 hrs 43 mins      ████████████████░░░░░░░░░   64.72 % 
+R                        5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      15 hrs 23 mins      ████████████████████░░░░░   79.34 % 
-Linux                    4 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Mac                      11 hrs 5 mins       █████████████████░░░░░░░░   66.93 % 
+Linux                    5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.07 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +135,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2023 19:05:28 UTC
+ Last Updated on 17/05/2023 19:05:59 UTC
 <!--END_SECTION:waka-->
 
 
