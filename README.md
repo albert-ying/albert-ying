@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C152%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C158%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,7 +70,7 @@ new longevity interventions and age-accelerating conditions.
 
 **🐱 My GitHub Data** 
 
-> 📦 4.1 MB Used in GitHub's Storage 
+> 📦 4.7 MB Used in GitHub's Storage 
  > 
 > 🏆 142 Contributions in the Year 2023
  > 
@@ -107,15 +107,15 @@ Sunday                   16 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    12 hrs 7 mins       ██████████████░░░░░░░░░░░   56.16 % 
-R                        8 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    13 hrs 50 mins      ██████████████░░░░░░░░░░░   55.42 % 
+R                        10 hrs 45 mins      ███████████░░░░░░░░░░░░░░   43.08 % 
+Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      12 hrs 29 mins      ██████████████░░░░░░░░░░░   57.86 % 
-Linux                    9 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.14 % 
+Mac                      13 hrs 56 mins      ██████████████░░░░░░░░░░░   55.87 % 
+Linux                    11 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.13 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +135,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2023 19:07:32 UTC
+ Last Updated on 19/05/2023 19:05:31 UTC
 <!--END_SECTION:waka-->
 
 
