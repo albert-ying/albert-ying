@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C585%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C589%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -107,13 +107,14 @@ Sunday                   27 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    27 hrs 32 mins      ██████████████████████░░░   87.99 % 
-R                        3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Other                    26 hrs 43 mins      ██████████████████████░░░   87.67 % 
+R                        3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      27 hrs 31 mins      ██████████████████████░░░   87.94 % 
-Linux                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Mac                      25 hrs 42 mins      █████████████████████░░░░   84.34 % 
+Linux                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 **I Mostly Code in R** 
@@ -133,7 +134,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2023 18:40:29 UTC
+ Last Updated on 13/09/2023 18:40:49 UTC
 <!--END_SECTION:waka-->
 
 
