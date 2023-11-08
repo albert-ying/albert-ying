@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C864%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C869%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
 
@@ -107,15 +107,16 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    28 hrs 14 mins      ████████████████████████░   94.45 % 
-R                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Other                    23 hrs 30 mins      ███████████████████████░░   91.63 % 
+Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+R                        51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      16 hrs 14 mins      ██████████████░░░░░░░░░░░   54.31 % 
-Unknown OS               12 hrs              ██████████░░░░░░░░░░░░░░░   40.14 % 
-Linux                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Mac                      12 hrs 45 mins      ████████████░░░░░░░░░░░░░   49.73 % 
+Unknown OS               10 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
+Linux                    2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +136,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2023 18:39:56 UTC
+ Last Updated on 08/11/2023 18:40:14 UTC
 <!--END_SECTION:waka-->
 
 
