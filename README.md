@@ -36,7 +36,7 @@ new longevity interventions and age-accelerating conditions.
   <a href="https://gladyshevlab.bwh.harvard.edu/">
   <img src="./gladyshevlab_logo.png", width="180",/>
   <a/>
-  <a href="www.clockbase.org">
+  <a href="https://www.clockbase.org">
   <img src="clockbase-logo.png", width="180",/>
   <a/>
 </div>
