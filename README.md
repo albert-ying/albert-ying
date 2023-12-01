@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C974%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C978%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
 
@@ -72,7 +72,7 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 5.1 MB Used in GitHub's Storage 
  > 
-> 🏆 229 Contributions in the Year 2023
+> 🏆 230 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,11 +120,11 @@ Linux                    2 hrs 56 mins       ██░░░░░░░░░�
 **I Mostly Code in R** 
 
 ```text
-R                        19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+R                        19 repos            ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Lua                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -134,7 +134,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 18:41:34 UTC
+ Last Updated on 01/12/2023 18:40:52 UTC
 <!--END_SECTION:waka-->
 
 
