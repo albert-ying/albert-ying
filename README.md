@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C099%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C100%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,7 +70,7 @@ new longevity interventions and age-accelerating conditions.
 
 **🐱 My GitHub Data** 
 
-> 📦 5.1 MB Used in GitHub's Storage 
+> 📦 5.2 MB Used in GitHub's Storage 
  > 
 > 🏆 232 Contributions in the Year 2023
  > 
@@ -107,14 +107,14 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    23 hrs 34 mins      ███████████████████████░░   92.64 % 
-R                        1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Other                    23 hrs 50 mins      ███████████████████████░░   92.71 % 
+R                        1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Mac                      18 hrs 19 mins      ██████████████████░░░░░░░   72.00 % 
-Unknown OS               5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Linux                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Mac                      18 hrs 35 mins      ██████████████████░░░░░░░   72.28 % 
+Unknown OS               5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Linux                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +134,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2023 18:40:17 UTC
+ Last Updated on 25/12/2023 18:39:29 UTC
 <!--END_SECTION:waka-->
 
 
