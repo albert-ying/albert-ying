@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C249%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C254%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -72,7 +72,7 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 5.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,15 +107,16 @@ Sunday                   42 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 14 mins      ████████████████████░░░░░   79.52 % 
-R                        4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Other                    21 hrs 27 mins      ███████████████████░░░░░░   77.23 % 
+R                        4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Python                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Mac                      21 hrs 13 mins      ████████████████████░░░░░   79.49 % 
-Linux                    5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Mac                      18 hrs 56 mins      █████████████████░░░░░░░░   68.20 % 
+Linux                    6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Unknown OS               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +136,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2024 18:41:08 UTC
+ Last Updated on 09/01/2024 18:39:53 UTC
 <!--END_SECTION:waka-->
 
 
