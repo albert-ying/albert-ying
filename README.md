@@ -62,8 +62,6 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C509%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
@@ -80,45 +78,6 @@ new longevity interventions and age-accelerating conditions.
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                123 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌆 Daytime                112 commits         ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-🌃 Evening                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-🌙 Night                  106 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Tuesday                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Wednesday                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Friday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Saturday                 53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    27 hrs 41 mins      ██████████████░░░░░░░░░░░   56.69 % 
-Python                   17 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.69 % 
-Text                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-R                        58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-💻 Operating System: 
-Linux                    21 hrs 59 mins      ███████████░░░░░░░░░░░░░░   45.01 % 
-Mac                      19 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   39.63 % 
-Unknown OS               7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -136,7 +95,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 18:41:33 UTC
+ Last Updated on 28/02/2024 18:40:25 UTC
 <!--END_SECTION:waka-->
 
 
