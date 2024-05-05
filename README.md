@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C931%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C934%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -105,8 +105,8 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    18 hrs 21 mins      ████████████████░░░░░░░░░   64.80 % 
-Python                   9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.40 % 
+Other                    18 hrs 20 mins      ████████████████░░░░░░░░░   64.79 % 
+Python                   9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.41 % 
 TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
@@ -133,7 +133,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2024 18:38:27 UTC
+ Last Updated on 05/05/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
 
 
