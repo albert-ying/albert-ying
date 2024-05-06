@@ -64,13 +64,15 @@ new longevity interventions and age-accelerating conditions.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C934%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 112 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,15 +107,14 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    18 hrs 20 mins      ████████████████░░░░░░░░░   64.79 % 
-Python                   9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.41 % 
-TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    16 hrs 1 min        ███████████████░░░░░░░░░░   58.82 % 
+Python                   10 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   40.26 % 
+TOML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Vim Script               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      28 hrs 6 mins       █████████████████████████   99.25 % 
-Linux                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Mac                      27 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -133,7 +134,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2024 18:39:13 UTC
+ Last Updated on 06/05/2024 18:38:53 UTC
 <!--END_SECTION:waka-->
 
 
