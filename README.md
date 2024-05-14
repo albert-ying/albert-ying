@@ -62,15 +62,17 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C959%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C963%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,14 +107,14 @@ Sunday                   41 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   12 hrs 51 mins      █████████████░░░░░░░░░░░░   50.12 % 
-Other                    10 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.38 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Vim Script               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   19 hrs 38 mins      ██████████████░░░░░░░░░░░   57.01 % 
+Other                    12 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   36.89 % 
+JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Vim Script               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Mac                      25 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -132,7 +134,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2024 18:39:10 UTC
+ Last Updated on 14/05/2024 18:40:21 UTC
 <!--END_SECTION:waka-->
 
 
