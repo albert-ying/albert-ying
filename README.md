@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C494%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C498%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
@@ -107,14 +107,14 @@ Sunday                   47 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    36 hrs 2 mins       ████████████████████████░   94.74 % 
-Python                   1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    38 hrs 15 mins      ████████████████████████░   94.68 % 
+Python                   2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 SSH Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      38 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      40 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +134,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2024 18:43:00 UTC
+ Last Updated on 02/09/2024 18:43:40 UTC
 <!--END_SECTION:waka-->
 
 
