@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C732%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C740%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,8 +71,6 @@ new longevity interventions and age-accelerating conditions.
 **🐱 My GitHub Data** 
 
 > 📦 7.2 MB Used in GitHub's Storage 
- > 
-> 🏆 188 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,14 +105,14 @@ Sunday                   49 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    36 hrs 28 mins      ████████████████████████░   94.75 % 
-Python                   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-R                        28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    37 hrs 14 mins      ████████████████████████░   94.20 % 
+R                        1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Python                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      38 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +132,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2024 18:47:28 UTC
+ Last Updated on 29/10/2024 18:47:24 UTC
 <!--END_SECTION:waka-->
 
 
