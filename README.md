@@ -62,8 +62,6 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C778%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
@@ -72,49 +70,12 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 7.2 MB Used in GitHub's Storage 
  > 
-> 🏆 189 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 42 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌆 Daytime                152 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-🌃 Evening                173 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌙 Night                  134 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 132 commits         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Friday                   110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Saturday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Other                    16 hrs 7 mins       █████████████████████████   99.90 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-💻 Operating System: 
-Mac                      16 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in R** 
 
 ```text
@@ -132,7 +93,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:43:09 UTC
+ Last Updated on 10/11/2024 18:43:20 UTC
 <!--END_SECTION:waka-->
 
 
