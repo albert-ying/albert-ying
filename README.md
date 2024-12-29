@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C968%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C970%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,15 +107,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    29 hrs 27 mins      ███████████████████░░░░░░   76.40 % 
-Python                   8 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    27 hrs 14 mins      ███████████████████░░░░░░   74.82 % 
+Python                   8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      38 hrs 30 mins      █████████████████████████   99.88 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Mac                      36 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 19:19:47 UTC
+ Last Updated on 29/12/2024 19:23:24 UTC
 <!--END_SECTION:waka-->
 
 
