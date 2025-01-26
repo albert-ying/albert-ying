@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C041%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C046%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,14 +107,15 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    29 hrs 5 mins       ███████████████████████░░   92.10 % 
-R                        2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Python                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    30 hrs 50 mins      ███████████████████████░░   91.29 % 
+R                        2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      29 hrs 41 mins      ███████████████████████░░   93.99 % 
-Linux                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Mac                      31 hrs 41 mins      ███████████████████████░░   93.83 % 
+Linux                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +135,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 19:20:18 UTC
+ Last Updated on 26/01/2025 19:22:38 UTC
 <!--END_SECTION:waka-->
 
 
