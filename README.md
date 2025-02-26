@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C199%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C203%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -107,14 +107,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    22 hrs 37 mins      ███████████████████████░░   93.74 % 
-R                        44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Python                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other                    18 hrs 59 mins      ████████████████████████░   94.42 % 
+R                        44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Mac                      24 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2025 19:31:26 UTC
+ Last Updated on 26/02/2025 19:36:44 UTC
 <!--END_SECTION:waka-->
 
 
