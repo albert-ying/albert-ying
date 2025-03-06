@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C230%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C233%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -107,15 +107,15 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    25 hrs 30 mins      ███████████████████████░░   90.57 % 
-Python                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-CSV                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-SSH Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    27 hrs 38 mins      ███████████████████████░░   90.58 % 
+Python                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+CSV                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+SSH Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      27 hrs 39 mins      █████████████████████████   98.20 % 
-Linux                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Mac                      29 hrs 59 mins      █████████████████████████   98.34 % 
+Linux                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +135,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2025 19:41:46 UTC
+ Last Updated on 06/03/2025 19:39:47 UTC
 <!--END_SECTION:waka-->
 
 
