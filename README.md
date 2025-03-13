@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C258%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C260%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -107,15 +107,15 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    23 hrs 47 mins      █████████████████████░░░░   85.95 % 
-Python                   2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-TeX                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other                    21 hrs 15 mins      █████████████████████░░░░   84.85 % 
+Python                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TeX                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      27 hrs 36 mins      █████████████████████████   99.70 % 
-Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Mac                      24 hrs 58 mins      █████████████████████████   99.67 % 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +135,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 19:37:19 UTC
+ Last Updated on 13/03/2025 19:34:36 UTC
 <!--END_SECTION:waka-->
 
 
