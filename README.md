@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C329%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C334%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -107,14 +107,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    25 hrs 6 mins       █████████████████████░░░░   82.26 % 
-Python                   2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-R                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-RMarkdown                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Other                    22 hrs 44 mins      ████████████████████░░░░░   80.42 % 
+Python                   3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+R                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+RMarkdown                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Mac                      30 hrs 29 mins      █████████████████████████   99.92 % 
+Mac                      28 hrs 15 mins      █████████████████████████   99.92 % 
 Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
@@ -135,7 +135,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 19:33:21 UTC
+ Last Updated on 06/04/2025 19:31:12 UTC
 <!--END_SECTION:waka-->
 
 
