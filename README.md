@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C334%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C339%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -107,15 +107,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    21 hrs 40 mins      ████████████████████░░░░░   78.98 % 
-Python                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-R                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-RMarkdown                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    15 hrs 55 mins      █████████████████████░░░░   83.61 % 
+Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+R                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+RMarkdown                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      27 hrs 25 mins      █████████████████████████   99.92 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Mac                      19 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 19:39:21 UTC
+ Last Updated on 10/04/2025 19:41:31 UTC
 <!--END_SECTION:waka-->
 
 
