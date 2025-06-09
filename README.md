@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C566%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C567%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,9 +70,9 @@ new longevity interventions and age-accelerating conditions.
 
 **🐱 My GitHub Data** 
 
-> 📦 7.5 MB Used in GitHub's Storage 
+> 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,14 +107,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    24 hrs 20 mins      █████████████████████░░░░   84.39 % 
-RMarkdown                2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other                    21 hrs 4 mins       █████████████████████░░░░   84.13 % 
+RMarkdown                1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Python                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Image (svg)              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Mac                      28 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 18:53:55 UTC
+ Last Updated on 09/06/2025 18:55:36 UTC
 <!--END_SECTION:waka-->
 
 
