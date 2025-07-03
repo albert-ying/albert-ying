@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C591%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C595%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,7 +72,7 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,15 +107,15 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
-RMarkdown                2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Python                   2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
+RMarkdown                2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Markdown                 2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      9 hrs 38 mins       █████████████████████████   99.18 % 
-Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Mac                      8 hrs 28 mins       █████████████████████████   99.07 % 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 **I Mostly Code in R** 
@@ -135,7 +135,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 18:56:42 UTC
+ Last Updated on 03/07/2025 18:56:18 UTC
 <!--END_SECTION:waka-->
 
 
