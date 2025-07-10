@@ -72,8 +72,6 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -132,7 +130,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 18:58:15 UTC
+ Last Updated on 10/07/2025 18:57:04 UTC
 <!--END_SECTION:waka-->
 
 
