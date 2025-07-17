@@ -62,7 +62,7 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C601%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C602%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,13 +72,11 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 40 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -120,11 +118,11 @@ Mac                      2 hrs 56 mins       ███████████�
 **I Mostly Code in R** 
 
 ```text
-Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -134,7 +132,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 19:00:06 UTC
+ Last Updated on 17/07/2025 18:59:43 UTC
 <!--END_SECTION:waka-->
 
 
