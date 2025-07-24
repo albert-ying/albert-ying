@@ -72,8 +72,6 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -107,10 +105,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-RMarkdown                1 hr 9 mins         █████████████████████████   100.00 % 
+RMarkdown                2 hrs 8 mins        █████████████████████░░░░   84.78 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -130,7 +132,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 19:01:01 UTC
+ Last Updated on 24/07/2025 19:00:05 UTC
 <!--END_SECTION:waka-->
 
 
