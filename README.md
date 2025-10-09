@@ -64,7 +64,7 @@ new longevity interventions and age-accelerating conditions.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C645%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -107,11 +107,10 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   43 mins             █████████████████████████   99.89 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in R** 
@@ -131,7 +130,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 18:55:14 UTC
+ Last Updated on 09/10/2025 18:54:44 UTC
 <!--END_SECTION:waka-->
 
 
