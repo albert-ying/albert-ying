@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C645%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C646%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -72,13 +72,13 @@ new longevity interventions and age-accelerating conditions.
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2025
+> 🏆 46 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 40 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -107,23 +107,24 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   45 mins             ██████████████████████░░░   86.66 % 
-Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   2 hrs 38 mins       ████████████████████████░   94.69 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
 
 ```text
-Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-Jupyter Notebook         14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+R                        19 repos            ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Jupyter Notebook         14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
@@ -133,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 18:57:09 UTC
+ Last Updated on 17/10/2025 18:53:37 UTC
 <!--END_SECTION:waka-->
 
 
