@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C655%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C656%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -107,14 +107,14 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 4 hrs 47 mins       ████████████████░░░░░░░░░   62.82 % 
-RMarkdown                1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Text                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Markdown                 7 hrs 16 mins       █████████████████░░░░░░░░   67.37 % 
+RMarkdown                1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Text                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      7 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -134,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 18:56:41 UTC
+ Last Updated on 29/10/2025 18:58:12 UTC
 <!--END_SECTION:waka-->
 
 
