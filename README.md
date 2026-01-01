@@ -66,13 +66,13 @@ new longevity interventions and age-accelerating conditions.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.08%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,12 +107,12 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 18 mins             █████████████████████████   99.61 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 39 mins             ████████████████████████░   96.14 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in R** 
@@ -132,7 +132,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:59:19 UTC
+ Last Updated on 01/01/2026 19:01:48 UTC
 <!--END_SECTION:waka-->
 
 
