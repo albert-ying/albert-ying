@@ -68,7 +68,7 @@ new longevity interventions and age-accelerating conditions.
 
 **🐱 My GitHub Data** 
 
-> 📦 7.6 MB Used in GitHub's Storage 
+> 📦 8.1 MB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -78,12 +78,12 @@ new longevity interventions and age-accelerating conditions.
  > 
 > 🔑 41 Private Repositories 
  > 
-**I Mostly Code in R** 
+**I Mostly Code in Python** 
 
 ```text
-R                        19 repos            ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-Python                   17 repos            ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Python                   18 repos            ███████░░░░░░░░░░░░░░░░░░   27.69 % 
 Jupyter Notebook         15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
@@ -95,7 +95,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 19:01:20 UTC
+ Last Updated on 03/01/2026 18:58:47 UTC
 <!--END_SECTION:waka-->
 
 
