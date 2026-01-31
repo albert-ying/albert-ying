@@ -62,9 +62,9 @@ new longevity interventions and age-accelerating conditions.
 <h2><b> <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif", width="180px",/> Coding Stats </b></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C315%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C318%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.88%20million%20lines%20of%20code-blue?style=flat)
 
@@ -107,21 +107,21 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 7 hrs 8 mins        ███████████████░░░░░░░░░░   59.02 % 
-CSV                      3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown                 8 hrs 7 mins        ████████████████░░░░░░░░░   62.47 % 
+CSV                      3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Mac                      12 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Jupyter Notebook         15 repos            ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Python                   18 repos            ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Jupyter Notebook         16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
@@ -134,7 +134,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/albert-ying/albert-ying/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 19:17:16 UTC
+ Last Updated on 31/01/2026 19:05:50 UTC
 <!--END_SECTION:waka-->
 
 
